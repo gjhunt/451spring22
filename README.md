@@ -32,7 +32,8 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos |
 .|R  3-17 | spring break |
 --- | --- | --- | --- | --- | --- | --- |
 13|T 3-22 | mgfs and common distributions 1 | Leemis 4.1, 4.2, 5.1, 5.2 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](), [vid2]()|
-14|R 3-24 | more common distributions | Leemis 4.5, 5.4 | **SP8:** Leemis ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]()|--- | --- | --- | --- | --- | --- | --- |
+14|R 3-24 | more common distributions | Leemis 4.5, 5.4 | **SP8:** Leemis ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]()
+|--- | --- | --- | --- | --- | --- | --- |
 15|T 3-29 | even more common distributions | Leemis 4.3, 5.3, 5.5 (to Ex. 5.17) | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](), [vid2]()|
 16|R 3-31 | transformations | Leemis 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | --- | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()|
 --- | --- | --- | --- | --- | --- | --- |
