@@ -17,7 +17,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 7|R 2-17 | independence |  2.6 | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](), [vid2]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
 8|T 2-22 | random variables and CDFs |  3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | --- | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)| [vid1](), [vid2]()| --- |
 9|R 2-24 | PMFs |  3.1 (all) | **SP5:**  ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36| [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)| [vid1](), [vid2]()| [QP 5](qp/qp5.pdf) due Mar 3 | 
-. |T 3-1 | ** midterm 1 (lectures 1-7) **  |
+. |T 3-1 | **midterm 1 (lectures 1-7)**  |
 10|R 3-3 | PDFs |  3.2, 3.3 (to Ex. 3.20)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)| [vid1](), [vid2]()|  [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | expectation |  3.4 (to Thrm. 3.5) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| [vid1](), [vid2]()| --- | 
 12|R 3-10 | variance and moments |  3.4 (all) | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid1](), [vid2]()| [QP7](qp/qp7.pdf) due Mar 24 | 
