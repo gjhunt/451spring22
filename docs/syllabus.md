@@ -1,7 +1,7 @@
 # Probability Syllabus
 MATH 451/551 - 01/02
 
-Fall 2021
+Spring 2022
 
 Section 1: 2:00 pm - 3:20 pm, TR, Jones Hall 306
 
@@ -42,7 +42,7 @@ Fri 10-11AM
 
 ## Website
 
-Information for the course can be found on blackboard or on [github](https://gjhunt.github.io/451fall2021)
+Information for the course can be found on blackboard or on [github](https://gjhunt.github.io/451spring22)
 
 ## Lectures
 
@@ -116,7 +116,7 @@ Handbook [www.wm.wdu/studenthandbook](www.wm.wdu/studenthandbook) and our Honor 
 Letter grades are assigned using the following table:
 
 percentage | letter grade |
-- | - |
+--- | --- |
 \>= 93| A|
 \>=90 and \<93| A-|
 \>=87 and \<90| B+|
