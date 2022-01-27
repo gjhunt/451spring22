@@ -8,7 +8,7 @@
 
 No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz problem (QP) | 
 --- | --- | --- | --- | --- | --- | --- | --- | 
-1|R 1-27 | basic set notation |  1.3 | **SP1:**  ch1: 63, 64, 69, 70, 73 | [sec1](lns/lec1_1.pdf), [sec2](lns/lec1_2.pdf)| [vid1](), [vid2]()| [QP 1](qp/qp1.pdf) due Feb 3 | 
+1|R 1-27 | basic set notation |  1.3 | **SP1:**  ch1: 63, 64, 69, 70, 73 | [sec1](lns/lec1_1.pdf), [sec2](lns/lec1_2.pdf)| [vid1](https://youtu.be/ozVHRMg8PAw), [vid2]()| [QP 1](qp/qp1.pdf) due Feb 3 | 
 2|T 2-1 | axiomatic probability |  2.1, 2.2 (to Defn. 2.6) | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)| [vid1](), [vid2]()| --- | 
 3|R 2-3 | basic theorems |  2.2 (all) | **SP2:**  ch2: 2-7, 9-11, 13 | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)| [vid1](), [vid2]()| [QP 2](qp/qp2.pdf) due Feb 10 | 
 4|T 2-8 | ordered counting |  1.2 (to Ex. 1.30) | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| [vid1](), [vid2]()| --- | 
