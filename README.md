@@ -12,7 +12,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 2|T 2-1 | axiomatic probability |  2.1, 2.2 (to Defn. 2.6) | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)| [vid1](https://youtu.be/vKcSHABQpY4), [vid2](https://youtu.be/dJXW1kThCq0)| --- | 
 3|R 2-3 | basic theorems |  2.2 (all) | **SP2:**  ch2: 2-7, 9-11, 13 | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)| [vid1](https://youtu.be/N-qg8S66xII), [vid2](https://youtu.be/YhwnEQbQsWY)| [QP 2](qp/qp2.pdf) due Feb 10 | 
 4|T 2-8 | counting |  1.2, 2.3 | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| [vid1](https://youtu.be/fF1Um9N1vM8) | --- | 
-5|R 2-10 | conditional probability |  2.4, 2.5 | **SP3:**  ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)| [vid1](), [vid2]()| [QP 3](qp/qp3.pdf) due Feb 17 | 
+5|R 2-10 | conditional probability |  2.4, 2.5 | **SP3:**  ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)| [vid1](https://youtu.be/Yt2GUL7nw4I), [vid2](https://youtu.be/k-aO7C4_7ww)| [QP 3](qp/qp3.pdf) due Feb 17 | 
 6|T 2-15 | independence |  2.6 | --- | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)| [vid1](), [vid2]()| --- |
 7|R 2-17 | random variables and CDFs | 3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](), [vid2]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
 8|T 2-22 | PMFs |  3.1 (all) | --- | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)| [vid1](), [vid2]()| --- |
