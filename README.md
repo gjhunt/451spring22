@@ -11,12 +11,12 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 1|R 1-27 | basic set notation |  1.3 | **SP1:**  ch1: 63, 64, 69, 70, 73 | [sec1](lns/lec1_1.pdf), [sec2](lns/lec1_2.pdf)| [vid1](https://youtu.be/ozVHRMg8PAw), [vid2](https://youtu.be/42hbOc5cTdA)| [QP 1](qp/qp1.pdf) due Feb 3 | 
 2|T 2-1 | axiomatic probability |  2.1, 2.2 (to Defn. 2.6) | --- | [sec1](lns/lec2_1.pdf), [sec2](lns/lec2_2.pdf)| [vid1](https://youtu.be/vKcSHABQpY4), [vid2](https://youtu.be/dJXW1kThCq0)| --- | 
 3|R 2-3 | basic theorems |  2.2 (all) | **SP2:**  ch2: 2-7, 9-11, 13 | [sec1](lns/lec3_1.pdf), [sec2](lns/lec3_2.pdf)| [vid1](https://youtu.be/N-qg8S66xII), [vid2](https://youtu.be/YhwnEQbQsWY)| [QP 2](qp/qp2.pdf) due Feb 10 | 
-4|T 2-8 | ordered counting |  1.2 (to Ex. 1.30) | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| [vid1](https://youtu.be/fF1Um9N1vM8) | --- | 
-5|R 2-10 | unordered counting |  1.2 (all), 2.3 | **SP3:**  ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)| [vid1](), [vid2]()| [QP 3](qp/qp3.pdf) due Feb 17 | 
-6|T 2-15 | conditional probability |  2.4, 2.5| --- | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)| [vid1](), [vid2]()| --- |
-7|R 2-17 | independence |  2.6 | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](), [vid2]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
-8|T 2-22 | random variables and CDFs |  3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | --- | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)| [vid1](), [vid2]()| --- |
-9|R 2-24 | PMFs |  3.1 (all) | **SP5:**  ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36| [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)| [vid1](), [vid2]()| [QP 5](qp/qp5.pdf) due Mar 3 | 
+4|T 2-8 | counting |  1.2, 2.3 | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| [vid1](https://youtu.be/fF1Um9N1vM8) | --- | 
+5|R 2-10 | conditional probability |  2.4, 2.5 | **SP3:**  ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)| [vid1](), [vid2]()| [QP 3](qp/qp3.pdf) due Feb 17 | 
+6|T 2-15 | independence |  2.6 | --- | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)| [vid1](), [vid2]()| --- |
+7|R 2-17 | random variables and CDFs | 3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](), [vid2]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
+8|T 2-22 | PMFs |  3.1 (all) | --- | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)| [vid1](), [vid2]()| --- |
+9|R 2-24 | ??? |  ??? | **SP5:**  ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36| [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)| [vid1](), [vid2]()| [QP 5](qp/qp5.pdf) due Mar 3 | 
 . |T 3-1 | **midterm 1 (lectures 1-7)**  |
 10|R 3-3 | PDFs |  3.2, 3.3 (to Ex. 3.20)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)| [vid1](), [vid2]()|  [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | expectation |  3.4 (to Thrm. 3.5) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| [vid1](), [vid2]()| --- | 
