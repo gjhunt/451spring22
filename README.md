@@ -14,10 +14,10 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 4|T 2-8 | counting |  1.2, 2.3 | --- | [sec1](lns/lec4_1.pdf), [sec2](lns/lec4_2.pdf)| [vid1](https://youtu.be/fF1Um9N1vM8) | --- | 
 5|R 2-10 | conditional probability |  2.4, 2.5 | **SP3:**  ch2: 30, 34, 36, 38, 48, 50, 52, 56, 64, 77 | [sec1](lns/lec5_1.pdf), [sec2](lns/lec5_2.pdf)| [vid1](https://youtu.be/Yt2GUL7nw4I), [vid2](https://youtu.be/k-aO7C4_7ww)| [QP 3](qp/qp3.pdf) due Feb 17 | 
 6|T 2-15 | independence |  2.6 | --- | [sec1](lns/lec6_1.pdf), [sec2](lns/lec6_2.pdf)| [vid1](https://youtu.be/fL9Rkzkct1k), [vid2](https://youtu.be/-e5YQBkO8d0)| --- |
-7|R 2-17 | random variables and CDFs | 3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](), [vid2]()| [QP 4](qp/qp4.pdf) due Feb 24 | 
+7|R 2-17 | random variables and CDFs | 3.1 (to Fig 3.2), 3.3 (to Ex. 3.14) | **SP4:**  ch2: 73, 75, 76, 80, 94, 102, 134, 142, 146 | [sec1](lns/lec7_1.pdf), [sec2](lns/lec7_2.pdf)| [vid1](https://youtu.be/rILF7icfVJk), [vid2](https://youtu.be/Jxnzt6lw7n8)| [QP 4](qp/qp4.pdf) due Feb 24 | 
 8|T 2-22 | PMFs |  3.1 (all) | --- | [sec1](lns/lec8_1.pdf), [sec2](lns/lec8_2.pdf)| [vid1](), [vid2]()| --- |
 9|R 2-24 | PDFs |  3.2, 3.3 (to Ex. 3.20) | **SP5:**  ch3: 4, 7, 8, 9, 14, 15, 24, 34, 35, 36| [sec1](lns/lec9_1.pdf), [sec2](lns/lec9_2.pdf)| [vid1](), [vid2]()| [QP 5](qp/qp5.pdf) due Mar 3 | 
-. |T 3-1 | **midterm 1 (lectures 1-7)**  |
+. |T 3-1 | **midterm 1 (lectures 1-6)**  |
 10|R 3-3 | expectation |  3.4 (to Thrm. 3.5)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)| [vid1](), [vid2]()|  [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | variance and moments |  3.4 (all) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| [vid1](), [vid2]()| --- | 
 12|R 3-10 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid1](), [vid2]()| [QP7](qp/qp7.pdf) due Mar 24 | 
@@ -27,7 +27,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 14|R 3-24 | more common distributions |  4.5, 5.4 | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]() | [QP8](qp/qp8.pdf) due Mar 31 | 
 15|T 3-29 | even more common distributions |  4.3, 5.3, 5.5 (to Ex. 5.17) | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](), [vid2]()| --- | 
 16|R 3-31 | transformations |  7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | --- | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()| [QP9](qp/qp9.pdf) due Apr 7 | 
-. |T 4-5 | **midterm 2 (lecture 8-14)** | 
+. |T 4-5 | **midterm 2 (lecture 7-14)** | 
 17|R 4-7 | transformations and bivariate rvs |  7.2 (to Ex. 7.21) | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)| [vid1](), [vid2]()| [QP10](qp/qp10.pdf) due Apr 14 | 
 18|T 4-12 | bivariate expectation|  6.1, 6.3 (to Thrm. 6.3) | --- | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)| [vid1](), [vid2]()| --- | 
 19|R 4-14 | covariance and correlation |  6.3 (to Ex. 6.37),  | **SP10:**  ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [vid1](), [vid2]()| [QP11](qp/qp11.pdf) due Apr 21 | 
