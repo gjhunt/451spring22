@@ -20,7 +20,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |T 3-1 | **midterm 1 (lectures 1-6)**  |
 10|R 3-3 | expectation |  3.4 (to Thrm. 3.5)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)| [vid1](https://youtu.be/924t0EZbQCU)|  [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | variance and moments |  3.4 (all) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| [vid1](https://youtu.be/4BVkHGr4RVI), [vid2](https://youtu.be/llMA8lZeHww)| --- | 
-12|R 3-10 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid1](), [vid2]()| [QP7](qp/qp7.pdf) due Mar 24 | 
+12|R 3-10 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid2](https://youtu.be/Zcm-NYmCbIs)| [QP7](qp/qp7.pdf) due Mar 24 | 
 .|T  3-15 | spring break |
 .|R  3-17 | spring break |
 13|T 3-22 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](), [vid2]()| --- | 
