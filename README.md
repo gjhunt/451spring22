@@ -20,20 +20,20 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 . |T 3-1 | **midterm 1 (lectures 1-6)**  |
 10|R 3-3 | expectation |  3.4 (to Thrm. 3.5)| **SP6:**  ch3: 18, 19, 25, 28, 48, 78a,b, 133a | [sec1](lns/lec10_1.pdf), [sec2](lns/lec10_2.pdf)| [vid1](https://youtu.be/924t0EZbQCU)|  [QP 6](qp/qp6.pdf) due Mar 10 | 
 11|T 3-8 | variance and moments |  3.4 (all) | --- | [sec1](lns/lec11_1.pdf), [sec2](lns/lec11_2.pdf)| [vid1](https://youtu.be/4BVkHGr4RVI), [vid2](https://youtu.be/llMA8lZeHww)| --- | 
-12|R 3-10 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid2](https://youtu.be/Zcm-NYmCbIs)| [QP7](qp/qp7.pdf) due Mar 24 | 
+12|R 3-10 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2, 5.4, | **SP7:**  ch3: 57, 61, 65, 73, 74, 75, 78c, 87, 117, 54, 67, 71, 81, 104, 134, 135| [sec1](lns/lec12_1.pdf), [sec2](lns/lec12_2.pdf)| [vid2](https://youtu.be/Zcm-NYmCbIs)| [QP7](qp/qp7.pdf) due Mar 24 | 
 .|T  3-15 | spring break |
 .|R  3-17 | spring break |
-13|T 3-22 | mgfs and common distributions 1 |  4.1, 4.2, 5.1, 5.2 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](), [vid2]()| --- | 
-14|R 3-24 | more common distributions |  4.5, 5.4 | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]() | [QP8](qp/qp8.pdf) due Mar 31 | 
-15|T 3-29 | even more common distributions |  4.3, 5.3, 5.5 (to Ex. 5.17) | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](), [vid2]()| --- | 
-16|R 3-31 | transformations |  7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | --- | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()| [QP9](qp/qp9.pdf) due Apr 7 | 
+13|T 3-22 | more common distributions |  4.3, 4.5, 5.3 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](https://youtu.be/wajY2y_7-aU), [vid2](https://youtu.be/4prCIbbIIY0)| --- | 
+14|R 3-24 | even more common distributions and transformations | 5.5 (to Ex. 5.17), 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]() | [QP8](qp/qp8.pdf) due Mar 31 | 
+15|T 3-29 | more transformations and bivariate rvs | 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19)  | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](), [vid2]()| --- | 
+16|R 3-31 | bivariate rvs | 6.1 | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()| [QP9](qp/qp9.pdf) due Apr 7 | 
 . |T 4-5 | **midterm 2 (lecture 7-14)** | 
-17|R 4-7 | transformations and bivariate rvs |  7.2 (to Ex. 7.21) | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)| [vid1](), [vid2]()| [QP10](qp/qp10.pdf) due Apr 14 | 
-18|T 4-12 | bivariate expectation|  6.1, 6.3 (to Thrm. 6.3) | --- | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)| [vid1](), [vid2]()| --- | 
-19|R 4-14 | covariance and correlation |  6.3 (to Ex. 6.37),  | **SP10:**  ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [vid1](), [vid2]()| [QP11](qp/qp11.pdf) due Apr 21 | 
-20|T 4-19 | conditional expectation and independence |  6.3 (to Ex. 6.42), 6.2 | --- | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)| [vid1](), [vid2]()| --- | 
-21|R 4-21 | iterated expectation, mv normal | 6.3 (to Ex 6.46), 6.4 (to Thrm. 6.14) | **SP11:**  ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [vid1](), [vid2]()| [QP12](qp/qp12.pdf) due Apr 28 | 
-22|T 4-26 | more bivariate transformations |  72 (to Ex. 7.22) | --- | [sec1](lns/lec22_1.pdf), [sec2](lns/lec22_2.pdf)| [vid1](), [vid2]()| --- | 
-23|R 4-28 | multivariate random variables | 6.4 (all), 6.5 (to Thrm 6.18) | **SP12:**  ch7: 22, 23, 28(a), 38, 49, ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | [sec1](lns/lec23_1.pdf), [sec2](lns/lec23_2.pdf)| [vid1](), [vid2]()| [QP13](qp/qp13.pdf) due May 5 | 
-24|T 5-3 | central limit theorem | --- | --- | [sec1](lns/lec24_1.pdf), [sec2](lns/lec24_2.pdf)| [vid1](), [vid2]()| --- | 
+17|R 4-7 | bivariate expectation|  6.1, 6.3 (to Thrm. 6.3) | **SP10:**  ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)| [vid1](), [vid2]()| [QP10](qp/qp10.pdf) due Apr 14 | 
+18|T 4-12 | covariance and correlation |  6.3 (to Ex. 6.37) | --- | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)| [vid1](), [vid2]()| --- | 
+19|R 4-14 | conditional distributions and independence |  6.3 (to Ex. 6.42), 6.2  | **SP11:**  ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [vid1](), [vid2]()| [QP11](qp/qp11.pdf) due Apr 21 | 
+20|T 4-19 | iterated expectation, mv normal | 6.3 (to Ex 6.46), 6.4 (to Thrm. 6.14)  | --- | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)| [vid1](), [vid2]()| --- | 
+21|R 4-21 | bivariate transformations |  7.2 (to Ex. 7.22) | **SP12:**  ch7: 22, 23, 28(a), 38, 49 | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [vid1](), [vid2]()| [QP12](qp/qp12.pdf) due Apr 28 | 
+22|T 4-26 | multivariate random variables | 6.4 (all), 6.5 (to Thrm 6.18) | --- | [sec1](lns/lec22_1.pdf), [sec2](lns/lec22_2.pdf)| [vid1](), [vid2]()| --- | 
+23|R 4-28 | central limit theorem | --- | **SP13:**  ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | [sec1](lns/lec23_1.pdf), [sec2](lns/lec23_2.pdf)| [vid1](), [vid2]()| [QP13](qp/qp13.pdf) due May 5 | 
+24|T 5-3 | review | --- | --- | --- | --- | --- | 
 
