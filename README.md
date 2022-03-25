@@ -24,7 +24,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 .|T  3-15 | spring break |
 .|R  3-17 | spring break |
 13|T 3-22 | more common distributions |  4.3, 4.5, 5.3 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](https://youtu.be/wajY2y_7-aU), [vid2](https://youtu.be/4prCIbbIIY0)| --- | 
-14|R 3-24 | even more common distributions and transformations | 5.5 (to Ex. 5.17), 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](), [vid2]() | [QP8](qp/qp8.pdf) due Mar 31 | 
+14|R 3-24 | transformations | 5.5 (to Ex. 5.17), 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](https://youtu.be/IwHif1Fq_hg), [vid2](https://youtu.be/kHrRZ0lOjKc) | [QP8](qp/qp8.pdf) due Mar 31 | 
 15|T 3-29 | more transformations and bivariate rvs | 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19)  | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](), [vid2]()| --- | 
 16|R 3-31 | bivariate rvs | 6.1 | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()| [QP9](qp/qp9.pdf) due Apr 7 | 
 . |T 4-5 | **midterm 2 (lecture 7-14)** | 
