@@ -26,9 +26,9 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 13|T 3-22 | more common distributions |  4.3, 4.5, 5.3 | --- | [sec1](lns/lec13_1.pdf), [sec2](lns/lec13_2.pdf)| [vid1](https://youtu.be/wajY2y_7-aU), [vid2](https://youtu.be/4prCIbbIIY0)| --- | 
 14|R 3-24 | transformations | 5.5 (to Ex. 5.17), 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19) | **SP8:**  ch4: 28, 39, 48, 54, ch5: 1, 5, 7, 21, 43, 69 | [sec1](lns/lec14_1.pdf), [sec2](lns/lec14_2.pdf)| [vid1](https://youtu.be/IwHif1Fq_hg), [vid2](https://youtu.be/kHrRZ0lOjKc) | [QP8](qp/qp8.pdf) due Mar 31 | 
 15|T 3-29 | more transformations and bivariate rvs | 7.1 (to Ex. 7.9), 7.2 (to Ex. 7.19)  | --- | [sec1](lns/lec15_1.pdf), [sec2](lns/lec15_2.pdf)| [vid1](https://youtu.be/E3dH-ZN4w5M), [vid2](https://youtu.be/8wIX_Dibpgc)| --- | 
-16|R 3-31 | bivariate rvs | 6.1 | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](), [vid2]()| [QP9](qp/qp9.pdf) due Apr 7 | 
+16|R 3-31 | bivariate rvs | 6.1 | **SP9:**  ch 7: 2,9,13,21,40,55,57,58,60,63 | [sec1](lns/lec16_1.pdf), [sec2](lns/lec16_2.pdf)| [vid1](https://youtu.be/J3RY5syCnJE), [vid2](https://youtu.be/-U_nFVbMzH0)| [QP9](qp/qp9.pdf) due Apr 7 | 
 . |T 4-5 | **midterm 2 (lecture 7-14)** | 
-17|R 4-7 | bivariate expectation|  6.1, 6.3 (to Thrm. 6.3) | **SP10:**  ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)| [vid1](), [vid2]()| [QP10](qp/qp10.pdf) due Apr 14 | 
+17|R 4-7 | more bivariate rvs |  6.1, 6.3 (to Thrm. 6.3) | **SP10:**  ch 6: 4, 5, 22, 24, 32, 35, 74, 78, 82 | [sec1](lns/lec17_1.pdf), [sec2](lns/lec17_2.pdf)| [vid1](https://youtu.be/xk_0SSIVfRc), [vid2](https://youtu.be/EgkCCMFiiAU)| [QP10](qp/qp10.pdf) due Apr 14 | 
 18|T 4-12 | covariance and correlation |  6.3 (to Ex. 6.37) | --- | [sec1](lns/lec18_1.pdf), [sec2](lns/lec18_2.pdf)| [vid1](), [vid2]()| --- | 
 19|R 4-14 | conditional distributions and independence |  6.3 (to Ex. 6.42), 6.2  | **SP11:**  ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [vid1](), [vid2]()| [QP11](qp/qp11.pdf) due Apr 21 | 
 20|T 4-19 | iterated expectation, mv normal | 6.3 (to Ex 6.46), 6.4 (to Thrm. 6.14)  | --- | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)| [vid1](), [vid2]()| --- | 
