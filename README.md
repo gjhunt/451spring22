@@ -33,7 +33,7 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 19|R 4-14 | conditional expectation and independence |  6.3 (to Ex. 6.42), 6.2  | **SP11:**  ch 6: 17a, 20, 36, 37, 47, 48, 50, 54, 60, 70, 88, 95 | [sec1](lns/lec19_1.pdf), [sec2](lns/lec19_2.pdf)| [vid2](https://youtu.be/YcDt-kg7ARM)| [QP11](qp/qp11.pdf) due Apr 21 | 
 20|T 4-19 | iterated expectation | 6.3 (to Ex 6.46), 6.4 (to Thrm. 6.14)  | --- | [sec1](lns/lec20_1.pdf), [sec2](lns/lec20_2.pdf)| [vid2](https://youtu.be/ecVHXgXHvKk)| --- | 
 21|R 4-21 | bivariate normal and transformations |  7.2 (to Ex. 7.22) | **SP12:**  ch7: 22, 23, 28(a), 38, 49 | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [vid1](https://youtu.be/virJ2GKbDeE), [vid2](https://youtu.be/q_xYr0IAlYM)| [QP12](qp/qp12.pdf) due May 3 | 
-22|T 4-26 | multivariate random variables | 6.4 (all), 6.5 (to Thrm 6.18) | --- | [sec1](lns/lec22_1.pdf), [sec2](lns/lec22_2.pdf)| [vid1](), [vid2]()| --- | 
-23|R 4-28 | central limit theorem | --- | **SP13:**  ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | [sec1](lns/lec23_1.pdf), [sec2](lns/lec23_2.pdf)| [vid1](), [vid2]()| --- | 
+22|T 4-26 | more bivariate transformations | --- | --- | [notes](lns/lec22.pdf) | [vid](https://youtu.be/peDqlVf25OU) | --- | 
+23|R 4-28 | multivariate random variables | 6.4 (all), 6.5 (to Thrm 6.18) | **SP13:**  ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | [notes](lns/lec23.pdf)| [vid](https://youtu.be/eeuMtlm2dQU) | --- | 
 24|T 5-3 | review | --- | --- | --- | --- | --- | 
 
