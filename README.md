@@ -1,8 +1,10 @@
 # MATH 451 Spring 2022
 
-## syllabus and outline
+## course materials
 
 - [syllabus](docs/syllabus.md)
+- [table of common distributions](docs/distab_small.pdf)
+
 
 ## lecture notes and videos
 
