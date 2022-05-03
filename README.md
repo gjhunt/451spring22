@@ -37,5 +37,4 @@ No. | date | topics | reading | suggested problems (SP) | notes | videos | quiz 
 21|R 4-21 | bivariate normal and transformations |  7.2 (to Ex. 7.22) | **SP12:**  ch7: 22, 23, 28(a), 38, 49 | [sec1](lns/lec21_1.pdf), [sec2](lns/lec21_2.pdf)| [vid1](https://youtu.be/virJ2GKbDeE), [vid2](https://youtu.be/q_xYr0IAlYM)| [QP12](qp/qp12.pdf) due May 3 | 
 22|T 4-26 | more bivariate transformations | --- | --- | [notes](lns/lec22.pdf) | [vid](https://youtu.be/peDqlVf25OU) | --- | 
 23|R 4-28 | multivariate random variables | 6.4 (all), 6.5 (to Thrm 6.18) | **SP13:**  ch6: 148, 150, 152, 165, 168, 174, 175, 185, 195 | [notes](lns/lec23.pdf)| [vid](https://youtu.be/eeuMtlm2dQU) | --- | 
-24|T 5-3 | statistics | --- | --- | --- | --- | --- | 
-
+24|T 5-3 | statistics | --- | --- |  [sec1](lns/lec24_1.pdf) [sec2](lns/lec24_2.pdf)| [vid1](https://youtu.be/5vegZSbE5yk) [vid2](https://youtu.be/lYg8CYfq_p8) | --- |
